@@ -1,0 +1,18 @@
+{
+	"items": [
+		{
+			"name": "BSH - K3",
+			"priority": 0,
+			"items": [
+				{
+					"name": "Start BSH - K3",
+					"priority": 1,
+					"action": "/mnt/us/bsh-k3/koreader.sh",
+					"params": "--kual",
+					"status": false,
+					"internal": "status Start BSH - K3"
+				}
+			]
+		}
+	]
+}

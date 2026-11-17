@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <title>Bible Study Hub</title>
+  <path d="M50 5L89 27.5V72.5L50 95L11 72.5V27.5Z" fill="#000000"/>
+  <path d="M50 32C42 26 30 25 20 28V68C30 65 42 66 50 73C58 66 70 65 80 68V28C70 25 58 26 50 32Z" fill="#ffffff"/>
+  <rect x="47" y="30" width="6" height="43" fill="#000000"/>
+  <rect x="35" y="42" width="30" height="6" fill="#000000"/>
+</svg>
